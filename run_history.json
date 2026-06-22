@@ -1,0 +1,100 @@
+[
+  {
+    "datetime": "2026-06-19 11:17",
+    "process": "RPT",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250530_TEST 20_Set 5_0.1C 2 cyc Formation"
+  },
+  {
+    "datetime": "2026-06-19 12:04",
+    "process": "RPT",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250605_TEST 20_Set 5_Initial RPT and 0.05C 2 cyc"
+  },
+  {
+    "datetime": "2026-06-19 12:14",
+    "process": "RPT",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250605_TEST 20_Set 5_Initial RPT and 0.05C 2 cyc"
+  },
+  {
+    "datetime": "2026-06-19 13:32",
+    "process": "RPT",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250605_TEST 20_Set 5_Initial RPT and 0.05C 2 cyc"
+  },
+  {
+    "datetime": "2026-06-19 16:35",
+    "process": "Formation",
+    "mode": "parsing",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250530_TEST 20_Set 4_0.1C 2 cyc Formation"
+  },
+  {
+    "datetime": "2026-06-19 16:49",
+    "process": "Formation",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250530_TEST 20_Set 2_0.1C 2 cyc Formation"
+  },
+  {
+    "datetime": "2026-06-19 17:01",
+    "process": "Formation",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250530_TEST 20_Set 2_0.1C 2 cyc Formation"
+  },
+  {
+    "datetime": "2026-06-22 07:18",
+    "process": "Formation",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250530_TEST 20_Set 4_0.1C 2 cyc Formation"
+  },
+  {
+    "datetime": "2026-06-22 07:23",
+    "process": "Formation",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250530_TEST 20_Set 4_0.1C 2 cyc Formation"
+  },
+  {
+    "datetime": "2026-06-22 08:21",
+    "process": "RPT",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250605_TEST 20_Set 5_Initial RPT and 0.05C 2 cyc"
+  },
+  {
+    "datetime": "2026-06-22 08:40",
+    "process": "RPT",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250605_TEST 20_Set 5_Initial RPT and 0.05C 2 cyc"
+  },
+  {
+    "datetime": "2026-06-22 08:50",
+    "process": "RPT",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250605_TEST 20_Set 5_Initial RPT and 0.05C 2 cyc"
+  },
+  {
+    "datetime": "2026-06-22 09:11",
+    "process": "RPT",
+    "mode": "csv",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250605_TEST 20_Set 5_Initial RPT and 0.05C 2 cyc"
+  },
+  {
+    "datetime": "2026-06-22 13:54",
+    "process": "Formation",
+    "mode": "parsing",
+    "output_dir": "C:/Users/tablrain/Desktop/origin_dev/07_output",
+    "stem": "07006655_250530_TEST 20_Set 1_0.1C 2 cyc Formation"
+  }
+]
